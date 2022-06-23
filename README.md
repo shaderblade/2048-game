@@ -1,2 +1,3 @@
 # 2048-game
-2048 Game, Sandeep Kumar Gupta, Shubham Pandey, Subject Code -- INT213
+
+Project by **Shubham Pandey** and **Sandeep Kumar Gupta** for the subject code **INT213**
